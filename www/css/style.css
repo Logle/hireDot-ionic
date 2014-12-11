@@ -1,0 +1,5 @@
+/* Empty. Add your own CSS if you like */
+
+.background, .background .pane, .background .item, .background .item-complex .item-content{
+    background-image: url(../img/tree_bark.png);
+}
